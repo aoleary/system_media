@@ -17,7 +17,7 @@
 #ifndef ANDROID_EFFECT_AGC2_H_
 #define ANDROID_EFFECT_AGC2_H_
 
-#include <hardware/audio_effect.h>
-#include <system/audio_effects/effect_agc2.h>
+#include </home/aoleary/los21/hardware/libhardware/include/hardware/audio_effect.h>
+#include </home/aoleary/los21/system/media/audio/include/system/audio_effects/effect_agc2.h>
 
 #endif /*ANDROID_EFFECT_AGC2_H_*/

@@ -27,7 +27,7 @@
 #ifndef ANDROID_EFFECT_VIRTUALIZER_H_
 #define ANDROID_EFFECT_VIRTUALIZER_H_
 
-#include <hardware/audio_effect.h>
+#include </home/aoleary/los21/hardware/libhardware/include/hardware/audio_effect.h>
 #include <system/audio_effects/effect_virtualizer.h>
 
 #endif /*ANDROID_EFFECT_VIRTUALIZER_H_*/

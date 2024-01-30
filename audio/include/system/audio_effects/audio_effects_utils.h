@@ -25,7 +25,7 @@
 #include <sys/types.h>
 #include <utils/Errors.h>
 
-#include <system/audio_effect.h>
+#include </home/aoleary/los21/system/media/audio/include/system/audio_effect.h>
 
 namespace android {
 namespace effect {

@@ -17,7 +17,7 @@
 #ifndef ANDROID_EFFECT_VISUALIZER_CORE_H_
 #define ANDROID_EFFECT_VISUALIZER_CORE_H_
 
-#include <system/audio_effect.h>
+#include </home/aoleary/los21/system/media/audio/include/system/audio_effect.h>
 
 #if __cplusplus
 extern "C" {

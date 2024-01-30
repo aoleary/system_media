@@ -27,7 +27,7 @@
 #ifndef ANDROID_EFFECT_AEC_H_
 #define ANDROID_EFFECT_AEC_H_
 
-#include <hardware/audio_effect.h>
-#include <system/audio_effects/effect_aec.h>
+#include </home/aoleary/los21/hardware/libhardware/include/hardware/audio_effect.h>
+#include </home/aoleary/los21/system/media/audio/include/system/audio_effects/effect_aec.h>
 
 #endif /*ANDROID_EFFECT_AEC_H_*/

@@ -17,7 +17,7 @@
 #ifndef ANDROID_EFFECT_EQUALIZER_CORE_H_
 #define ANDROID_EFFECT_EQUALIZER_CORE_H_
 
-#include <system/audio_effect.h>
+#include </home/aoleary/los21/system/media/audio/include/system/audio_effect.h>
 
 #ifndef OPENSL_ES_H_
 static const effect_uuid_t SL_IID_EQUALIZER_ = { 0x0bed4300, 0xddd6, 0x11db, 0x8f34,
